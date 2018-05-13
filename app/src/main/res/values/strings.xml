@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chat Using Firebase</string>
+
+    <!--RegisterActivity-->
+    <string name="register">Register</string>
+    <string name="enter_username">Username</string>
+    <string name="enter_password">Password</string>
+    <string name="click_here_to_login">Click here to login</string>
+
+    <!--LoginActivity-->
+    <string name="login">Login</string>
+    <string name="click_here_to_register">Click here to register</string>
+
+    <!--UsersActivity-->
+    <string name="no_users">No users found</string>
+
+    <!--hints-->
+    <string name="type_a_message">Type a message</string>
+
+    <string name="blank_error">Field cannot be blank</string>
+    <string name="incorrect_password">Incorrect password</string>
+    <string name="only_alphabet_or_number_allowed">Only alphabet or number allowed</string>
+    <string name="registration_successful">Registration successful</string>
+    <string name="username_already_exists">Username already exists</string>
+
+    <!--UsersAdapter-->
+    <string name="username">Username</string>
+</resources>
